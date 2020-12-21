@@ -1,3 +1,0 @@
-All music goes here.
-I had to make this just 
-because GitHub doesn't allow empty files.
