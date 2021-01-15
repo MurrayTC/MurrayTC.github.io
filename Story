@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>The MTC Blog</title>
+    <link rel="stylesheet" href="InfoPagesCSS.css">
+</head>
+<body>
+    <center>
+        <div>
+            <img src="Images/TCBlog.png">
+        </div>
+        <div class="themeselect">
+            <button onclick="mruseless()">Theme select button needs a rework. This currently button has no function and therefore a useless button.</button>
+        </div>
+        <div class="title">
+            <center>
+                <a>Homepage</a>
+            </center>
+        </div>
+        <div class="body">
+            <div class="disclaimer">
+                <a><p><i><b>Apparently now the devil wants us to code our sites in PHP, because he speaks it.</b></i></p></a>
+            </div>
+        </div>
+
+        <div class="navbar">
+            <a href="Home.html"><b>Home</b></a>
+            <a href="Phonebook.html"><b>Phonebook</b></a>
+            <div class="dropdown">
+                <button class="dropbtn">
+                    <b>The Great Pants Rampage of '11</b>
+                </button>
+                <div class="dropdown-content">
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><b>Development</b></a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><b>Story</b></a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><b>The Protagonist</b></a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><b>Weapons</b></a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">
+                    <b>A Few More Plans</b>
+                </button>
+                <div class="dropdown-content">
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><b>NAN Project</b></a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><b>Debugger Mode</b></a>
+                </div>
+            </div>
+            <a href="About.html"><b>About "Us"</b></a>
+        </div>
+
+        <div class="sitebody">
+            <h1>Story for School</h1>
+    </center>
+</body>
+<center>
+    <div class="footer">
+        <h2>Why are you down here?</h2>
+        <p>I seriously need to finish up this blog soon. Refining it and stuff...</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        <h3>Also credits:</h3>
+        <p>Background (Modified): https://commons.wikimedia.org/wiki/File:Nagoya_Night_View.jpg </p>
+    </div>
+</center>
+<script>
+    function mruseless() {
+    do "Absolutely nothing"
+    }
+</script>
+</html>
